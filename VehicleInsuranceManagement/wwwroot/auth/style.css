@@ -1,0 +1,33 @@
+body {
+  background: linear-gradient(135deg, #000000 70%, #1a1a1a);
+  font-family: 'Poppins', sans-serif;
+}
+
+.login-card {
+  width: 400px;
+  background: rgba(20, 20, 20, 0.95);
+  border-radius: 20px;
+  backdrop-filter: blur(6px);
+  transition: all 0.3s ease;
+}
+
+.login-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 20px rgba(255, 165, 0, 0.3);
+}
+
+.btn-warning {
+  background-color: #f0a500;
+  border: none;
+  border-radius: 30px;
+}
+
+.btn-warning:hover {
+  background-color: #ffb833;
+  box-shadow: 0 0 10px #ffb833;
+}
+
+.form-control:focus {
+  box-shadow: 0 0 10px #f0a500;
+  border-color: #f0a500;
+}

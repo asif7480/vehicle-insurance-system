@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|c:\\users\\int\\documents\\04b1\\dotnet core\\vehicleinsurancemanagement\\vehicleinsurancemanagement\\views\\account\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|solutionrelative:vehicleinsurancemanagement\\views\\account\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|c:\\users\\int\\documents\\04b1\\dotnet core\\vehicleinsurancemanagement\\vehicleinsurancemanagement\\views\\dashboard\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|solutionrelative:vehicleinsurancemanagement\\views\\dashboard\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|c:\\users\\int\\documents\\04b1\\dotnet core\\vehicleinsurancemanagement\\vehicleinsurancemanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|solutionrelative:vehicleinsurancemanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|c:\\users\\int\\documents\\04b1\\dotnet core\\vehicleinsurancemanagement\\vehicleinsurancemanagement\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|solutionrelative:vehicleinsurancemanagement\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|c:\\users\\int\\documents\\04b1\\dotnet core\\vehicleinsurancemanagement\\vehicleinsurancemanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|solutionrelative:vehicleinsurancemanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|c:\\users\\int\\documents\\04b1\\dotnet core\\vehicleinsurancemanagement\\vehicleinsurancemanagement\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|solutionrelative:vehicleinsurancemanagement\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|c:\\users\\int\\documents\\04b1\\dotnet core\\vehicleinsurancemanagement\\vehicleinsurancemanagement\\views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|solutionrelative:vehicleinsurancemanagement\\views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|c:\\users\\int\\documents\\04b1\\dotnet core\\vehicleinsurancemanagement\\vehicleinsurancemanagement\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|solutionrelative:vehicleinsurancemanagement\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|c:\\users\\int\\documents\\04b1\\dotnet core\\vehicleinsurancemanagement\\vehicleinsurancemanagement\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|solutionrelative:vehicleinsurancemanagement\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|c:\\users\\int\\documents\\04b1\\dotnet core\\vehicleinsurancemanagement\\vehicleinsurancemanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|solutionrelative:vehicleinsurancemanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|c:\\users\\int\\documents\\04b1\\dotnet core\\vehicleinsurancemanagement\\vehicleinsurancemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|solutionrelative:vehicleinsurancemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|c:\\users\\int\\documents\\04b1\\dotnet core\\vehicleinsurancemanagement\\vehicleinsurancemanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|solutionrelative:vehicleinsurancemanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|c:\\users\\int\\documents\\04b1\\dotnet core\\vehicleinsurancemanagement\\vehicleinsurancemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6934B2A1-EEC5-407F-9138-5EF430ABB48F}|VehicleInsuranceManagement\\VehicleInsuranceManagement.csproj|solutionrelative:vehicleinsurancemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Dashboard\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "VehicleInsuranceManagement\\Views\\Dashboard\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Dashboard\\_ViewStart.cshtml",
+              "RelativeToolTip": "VehicleInsuranceManagement\\Views\\Dashboard\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T05:31:41.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Account\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "VehicleInsuranceManagement\\Views\\Account\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Account\\_ViewStart.cshtml",
+              "RelativeToolTip": "VehicleInsuranceManagement\\Views\\Account\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T05:29:25.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "VehicleInsuranceManagement\\Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "VehicleInsuranceManagement\\Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T05:26:55.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "VehicleInsuranceManagement\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "VehicleInsuranceManagement\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T05:26:10.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "VehicleInsuranceManagement\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "VehicleInsuranceManagement\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T05:25:58.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "VehicleInsuranceManagement\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "VehicleInsuranceManagement\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T05:25:32.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_DashboardLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Shared\\_DashboardLayout.cshtml",
+              "RelativeDocumentMoniker": "VehicleInsuranceManagement\\Views\\Shared\\_DashboardLayout.cshtml",
+              "ToolTip": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Shared\\_DashboardLayout.cshtml",
+              "RelativeToolTip": "VehicleInsuranceManagement\\Views\\Shared\\_DashboardLayout.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T05:02:53.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "VehicleInsuranceManagement\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "VehicleInsuranceManagement\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAADABAAAAAAAAAAAYwFIBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T05:01:58.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "VehicleInsuranceManagement\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "VehicleInsuranceManagement\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T05:01:50.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "VehicleInsuranceManagement\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "VehicleInsuranceManagement\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:51:24.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VehicleInsuranceManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VehicleInsuranceManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T04:50:57.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VehicleInsuranceManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VehicleInsuranceManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwEgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T04:46:15.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Program.cs",
+              "RelativeDocumentMoniker": "VehicleInsuranceManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\int\\Documents\\04b1\\dotnet core\\VehicleInsuranceManagement\\VehicleInsuranceManagement\\Program.cs",
+              "RelativeToolTip": "VehicleInsuranceManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:46:11.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
