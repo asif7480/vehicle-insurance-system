@@ -1,31 +1,44 @@
-﻿<div class="container d-flex align-items-center justify-content-center vh-100">
+﻿@model VehicleInsuranceManagement.ViewModels.RegisterViewModel;
+
+<div class="container d-flex align-items-center justify-content-center vh-100">
     <div class="card login-card shadow-lg border-0">
         <div class="card-body p-5">
             <div class="text-center mb-4">
                 <h2 class="text-warning fw-bold">Oberlo</h2>
                 <p class="text-secondary">Create your account</p>
             </div>
-            <form>
+            <form asp-action="Register" method="post">
                 <div class="mb-3">
                     <label class="form-label text-light">Full Name</label>
-                    <input type="text" class="form-control bg-dark text-light border-secondary" placeholder="Enter your name">
+                    <input asp-for="UserName" class="form-control bg-dark text-light border-secondary" placeholder="Enter your name">
+                    <span asp-validation-for="UserName"></span>
                 </div>
                 <div class="mb-3">
                     <label class="form-label text-light">Email</label>
-                    <input type="email" class="form-control bg-dark text-light border-secondary" placeholder="Enter email">
+                    <input asp-for="Email" class="form-control bg-dark text-light border-secondary" placeholder="Enter email">
+                    <span asp-validation-for="Email"></span>
                 </div>
                 <div class="mb-3">
                     <label class="form-label text-light">Password</label>
-                    <input type="password" class="form-control bg-dark text-light border-secondary" placeholder="Enter password">
+                    <input asp-for="Password" class="form-control bg-dark text-light border-secondary" placeholder="Enter password">
+                    <span asp-validation-for="Password"></span>
                 </div>
+
                 <div class="mb-3">
-                    <label class="form-label text-light">Confirm Password</label>
-                    <input type="password" class="form-control bg-dark text-light border-secondary" placeholder="Confirm password">
+                    <label class="form-label text-light">Role</label>
+                    <select asp-for="Role" class="form-control bg-dark text-light border-secondary">
+                        <option>select an option</option>
+                        @foreach (var role in ViewBag.Roles)
+                        {
+                            <option asp-items="@role">@role</option>
+                        }
+                    </select>
+                    <span asp-validation-for="Role"></span>
                 </div>
-                <button class="btn btn-warning w-100 fw-semibold mt-3">Register</button>
+                <button type="submit" class="btn btn-warning w-100 fw-semibold mt-3">Register</button>
             </form>
             <div class="text-center mt-3">
-                <p class="text-secondary">Already have an account? <a href="login.html" class="text-warning text-decoration-none">Login</a></p>
+                <p class="text-secondary">Already have an account? <a asp-controller="Account" asp-action="Login" class="text-warning text-decoration-none">Login</a></p>
             </div>
         </div>
     </div>
